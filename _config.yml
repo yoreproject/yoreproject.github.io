@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: YORE
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Maryam Kargaran
+  email: blogforyore@gmail.com
+description: "Solution Design in Medical Engineering Summer 2022"
 
 # Build settings
 remote_theme: jekyll/minima
